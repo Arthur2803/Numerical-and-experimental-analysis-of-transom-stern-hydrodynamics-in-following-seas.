@@ -1,0 +1,27 @@
+CATMAN TEST FILE
+PATH=F:\HBM\catmanEasy\DATA\2025_MSc_Arthur\1601
+Version=catmanEasy university license
+Job name=Job1
+Data file with path=F:\HBM\catmanEasy\DATA\2025_MSc_Arthur\1601\1601-0_9-0_575-40(IngenVekt)#1.bin
+Data file=1601-0_9-0_575-40(IngenVekt)#1.bin
+DAQ project=Arthur_v2.MEP
+File comment=
+Time zone=Central Europe Standard Time (UTC+1:00)
+Operator=
+Department=
+Comment=
+Default sample rate=200 Hz
+Slow sample rate=5 Hz
+Fast sample rate=2400 Hz
+Number of samples default sample rate=15379
+Number of samples slow sample rate=0
+Number of samples fast sample rate=0
+Saving mode=PROMPT
+Leader/Follower mode=Yes
+Start mode=Manual
+Start time=2025/01/16 10:25:45
+Stop mode=Manual
+Stop time=2025/01/16 10:27:02
+catmanEasy/AP version=5.5.3.13
+Numerical precision=8 Byte Float
+DATAFILE=F:\HBM\catmanEasy\DATA\2025_MSc_Arthur\1601\1601-0_9-0_575-40(IngenVekt)#1.bin

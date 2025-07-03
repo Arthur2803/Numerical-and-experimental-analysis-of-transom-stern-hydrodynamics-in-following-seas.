@@ -1,0 +1,27 @@
+CATMAN TEST FILE
+PATH=F:\HBM\catmanEasy\DATA\2025_MSc_Arthur\WPCAL
+Version=catmanEasy university license
+Job name=Job1
+Data file with path=F:\HBM\catmanEasy\DATA\2025_MSc_Arthur\WPCAL\wp4_cal.bin
+Data file=wp4_cal.bin
+DAQ project=Arthur_v2.MEP
+File comment=
+Time zone=Central Europe Standard Time (UTC+1:00)
+Operator=
+Department=
+Comment=
+Default sample rate=200 Hz
+Slow sample rate=5 Hz
+Fast sample rate=2400 Hz
+Number of samples default sample rate=49841
+Number of samples slow sample rate=0
+Number of samples fast sample rate=0
+Saving mode=PROMPT
+Leader/Follower mode=Yes
+Start mode=Manual
+Start time=2025/01/17 10:54:07
+Stop mode=Manual
+Stop time=2025/01/17 10:58:16
+catmanEasy/AP version=5.5.3.13
+Numerical precision=8 Byte Float
+DATAFILE=F:\HBM\catmanEasy\DATA\2025_MSc_Arthur\WPCAL\wp4_cal.bin

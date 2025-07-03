@@ -1,0 +1,25 @@
+Time  1 - default sample rate
+FX_SB_20656
+FX_PT_20657
+P6720
+Rel_WP1
+Rel_WP2
+WP3
+WP4
+WP5
+WP6
+WP7
+WP8
+X_Acc_20730
+Y_Acc_20730
+Z_Acc_20730            # Positiv når går ned 
+Gyro_Stamp_6141    #Pitching down is negative anglespeed,
+Gyro_Rull_6141     # Positiv rulling mot styrbord
+Gyro_Gir_6141
+UL_WaterLevel
+Position
+Speed
+Flap_Position
+Waterlevel_Calc
+FX_total
+timetrig
